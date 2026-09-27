@@ -14,7 +14,7 @@
 - 🌱 Deep-diving into **database internals**, concurrency control, and system design
 - 💡 Interested in applying **anomaly detection** and ML techniques to real-world data systems (e.g., insurance claims fraud detection)
 - 🧩 Enjoy iterating on ideas end-to-end — from architecture to implementation
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: lingeshwarand17@gmail.com
 
 ---
 
